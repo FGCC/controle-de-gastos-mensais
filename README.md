@@ -27,3 +27,8 @@ Obrigado por utilizar este projeto! Espero que ele ajude você a conquistar sua 
 
 [Cotações das Bolsas Mundiais em Tempo Real](https://www.darf6015.com.br/cotacoes-bolsas-mundiais-em-tempo-real/)
 
+
+---
+
+## 📄 Licença
+Este projeto está licenciado sob a **Licença MIT**. Você é livre para usar, copiar e modificar estas planilhas para uso pessoal ou comercial, desde que atribua os créditos ao projeto original [DARF 6015](https://darf6015.com.br).

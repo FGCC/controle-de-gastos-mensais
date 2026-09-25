@@ -25,8 +25,6 @@ Obrigado por utilizar este projeto! Espero que ele ajude você a conquistar sua 
 
 [Imposto de Renda na Bolsa de Valores](https://www.darf6015.com.br)
 
-[Cotações das Bolsas Mundiais em Tempo Real](https://www.darf6015.com.br/cotacoes-bolsas-mundiais-em-tempo-real/)
-
 
 ---
 
